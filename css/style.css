@@ -1,0 +1,27 @@
+body{
+    width: 1300px;
+    height: 620px;
+    border-radius: 10px;
+    margin:5px;
+}
+div.first{
+    width:1290px;
+    height:610px;
+    background-color:#FFC0CB;
+}
+div.second{width:450px;
+    height:175px;
+    border:10px solid yellow;
+    position:absolute;
+    margin:auto;
+    top:0;left:0;bottom:405px;right:0;
+}
+
+div.third{width:410px;
+    height:135px;
+    border:30px solid #C71585;
+    position:absolute;
+    margin:auto;
+    top:0;left:0;bottom:-25px;right:0;
+
+}
